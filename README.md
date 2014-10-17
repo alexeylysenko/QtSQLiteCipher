@@ -21,7 +21,7 @@ OR
 
 2b) Instantiate QSqlDriverPlugin as in example QtSQLiteCipherExample project.
 
-See `examples/` for examples on using this class.
+See `QtSQLiteCipherExample/` for example on using this driver.
 
 ## Contact
 
